@@ -149,9 +149,9 @@ div.transbox {
     session_start();
     include_once"job.php";
     $db_host = "localhost";
-// Place the username for the MySQL database here
+
 $db_username = "root"; 
-// Place the password for the MySQL database here
+
 
 
 $db_name = "jobdb";
